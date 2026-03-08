@@ -351,7 +351,7 @@ ai:
   # 完整列表: https://docs.litellm.ai/docs/providers
   # 如果你对于看英文文档比较头疼，那么可以点击页面右下角的 【Ask AI】 ,用中文询问怎么配置 
   
-  model: "glm/glm-4-flash"
+  model: "zai/glm-4.7"
 
   api_key: "d02aa40328864ae69dbba11fae9b335d.qOmpdLz14jUvcdE8"                       # API Key（建议使用环境变量 AI_API_KEY）
   
