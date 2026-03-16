@@ -353,7 +353,7 @@ ai:
   
   model: "zai/glm-4.7"
 
-  api_key: "d02aa40328864ae69dbba11fae9b335d.qOmpdLz14jUvcdE8"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "37821339d161468aa322f1fa616ece4d.LAIhr73xeWTI2CkG"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://open.bigmodel.cn/api/paas/v4/"                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
